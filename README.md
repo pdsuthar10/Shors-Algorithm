@@ -3,8 +3,8 @@ A python implementation of quantum shors algorithm on classical computer.
 
 Project Contributors:
 
-Karn Vadaliya (201501116)
 Priyam Suthar (201501249)
+Karn Vadaliya (201501116)
 Harsh Makwana (201501191)
 Raj Gamit     (201501171)
 
